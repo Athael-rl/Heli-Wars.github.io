@@ -1,4 +1,4 @@
 # HeliWars
 still being worked on
-[click here](https://github.com/Athael-rl/Heli-Wars.github.io))
+[click here](https://athael-rl.github.io/Heli-Wars.github.io/)
 
